@@ -3,3 +3,6 @@
 
 ### Hexlet CodeClimate linter: 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9bd23ae91225d2f7db74/maintainability)](https://codeclimate.com/github/AVIOR1/python-project-lvl1/maintainability)
+
+### Brain-even game asciinema:
+(https://asciinema.org/a/jHGrxOFo7WBpNutwnecWMiGZy)
